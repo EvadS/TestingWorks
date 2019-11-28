@@ -15,7 +15,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class AppTest {
     final Logger logger = Logger.getLogger(AppTest.class);
-    final String fileName = "latency.txt";
+    final String fileName = "input_file.txt";
     final String sortedFilePath = "sorted_file.txt";
     String tmpDirectory;
 

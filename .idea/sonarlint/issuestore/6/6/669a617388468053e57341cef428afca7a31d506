@@ -1,0 +1,11 @@
+
+Fsquid:S11486"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8³¦¤ñê-
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(èÒ¦Òüÿÿÿÿ8³¦¤ñê-
+nsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(¤êâÛúÿÿÿÿ8ÂæÊñê-
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(âÃ¿Ñ8³¦¤ñê-
+msquid:S00100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¹…ô8³¦¤ñê-
+?squid:S1170"!Make this final field static too.(‡× õ8³¦¤ñê-
+?squid:S1170"!Make this final field static too.(Ó¾—í8¶Áóðê-
+msquid:S00100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÔŠÖ8³¦¤ñê-

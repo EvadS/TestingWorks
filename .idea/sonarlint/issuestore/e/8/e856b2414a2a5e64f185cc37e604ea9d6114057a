@@ -1,0 +1,17 @@
+
+„squid:S3008"fRename this field "TEMPORARY_SORTING_DIRECTORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñéËË8ü½ğê-
+usquid:S2976&"WUse "Files.createTempDirectory" or a library function to create this directory instead.(’ä„8İÎäïê-
+]
+squid:S899.";Do something with the "boolean" value returned by "delete".(‡ø©Ïıÿÿÿÿ8ûÂøïê-
+Usquid:S1068"2Remove this unused "TEST_FILE1_TXT" private field.(ñ®¤…ûÿÿÿÿ8ã£ğê-
+[squid:UselessImportCheck	"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8İÎäïê-
+gsquid:S4042%"IUse "java.nio.Files#delete" here for better messages on error conditions.(’«ÌÌ8İÎäïê-
+V
+squid:S106S"9Replace this use of System.out or System.err by a logger.(¿ãœƒ8ø¸½ïê-
+Fsquid:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8äşËïê-
+Psquid:S1135U"2Complete the task associated to this TODO comment.(£–ú“8¡–›ğê-
+}squid:S3008"ZRename this field "MAX_MEMORY_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¸ˆ£ûÿÿÿÿ8Ìı²îê-
+lsquid:S4042."IUse "java.nio.Files#delete" here for better messages on error conditions.(‡ø©Ïıÿÿÿÿ8ûÂøïê-
+hsquid:UselessImportCheck"8Remove this unused import 'java.net.URISyntaxException'.(Ä®íÿÿÿÿÿ8ĞŸ›ïê-
+X
+squid:S899%";Do something with the "boolean" value returned by "delete".(’«ÌÌ8İÎäïê-
